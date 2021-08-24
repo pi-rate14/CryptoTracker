@@ -12,11 +12,3 @@ It also has a search feature to search for any cryptocurrency.
 ### Search
 
 ![Search](/src/assets/Search.png)
-
-### Funding/Requesting for a campaign
-
-![Funding a Campaign](/src/assets/UI/3.png)
-
-### Visible Campaigns
-
-![Active Campaigns](/src/assets/UI/4.png)
